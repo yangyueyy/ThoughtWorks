@@ -1,2 +1,0 @@
-# ThoughtWorks
-Answer question one.
